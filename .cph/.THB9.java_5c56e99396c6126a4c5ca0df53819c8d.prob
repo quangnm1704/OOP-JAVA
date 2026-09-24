@@ -1,0 +1,1 @@
+{"name":"Local: THB9","url":"c:\\CODEPTIT_JAVA\\THB9.java","tests":[{"id":1790083711162,"input":"B21DCCN123\nTran Van Toan\nD21CQCN01-B\ntoantv@gmail.com\n987654321\nB21DCCN111\nLy Van Binh\nD21CQCN01-B\nbinhlv@gmail.com\n978652142","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\CODEPTIT_JAVA\\THB9.java","group":"local","local":true}

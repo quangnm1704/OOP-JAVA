@@ -1,0 +1,1 @@
+{"name":"Local: THB2","url":"c:\\CODEPTIT_JAVA\\THB2.java","tests":[{"id":1790078191132,"input":"6\n6.75 8 9.2 7.25 7.75 6.75","output":"7.67"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\CODEPTIT_JAVA\\THB2.java","group":"local","local":true}

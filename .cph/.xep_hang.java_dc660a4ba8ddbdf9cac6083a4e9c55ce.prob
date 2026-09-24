@@ -1,0 +1,1 @@
+{"name":"Local: xep_hang","url":"c:\\CODEPTIT_JAVA\\xep_hang.java","tests":[{"id":1789701717010,"input":"3\n2 1\n8 3\n5 7 ","output":"15"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\CODEPTIT_JAVA\\xep_hang.java","group":"local","local":true}

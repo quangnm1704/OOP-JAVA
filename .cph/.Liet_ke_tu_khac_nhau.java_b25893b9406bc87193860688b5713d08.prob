@@ -1,0 +1,1 @@
+{"name":"Local: Liet_ke_tu_khac_nhau","url":"c:\\CODEPTIT_JAVA\\Liet_ke_tu_khac_nhau.java","tests":[{"id":1789818148901,"input":"lap trinh Huong doi tuong\nlap trinh Huong thanh phan","output":"doi\nhuong\nlap\nphan\nthanh\ntrinh\ntuong"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\CODEPTIT_JAVA\\Liet_ke_tu_khac_nhau.java","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: Liet_ke_to_hop1","url":"c:\\CODEPTIT_JAVA\\Liet_ke_to_hop1.java","tests":[{"id":1789704722743,"input":"5 3","output":"1 2 3\n1 2 4\n1 2 5\n1 3 4\n1 3 5\n1 4 5\n2 3 4\n2 3 5\n2 4 5\n3 4 5\nTong cong co 10 to hop"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\CODEPTIT_JAVA\\Liet_ke_to_hop1.java","group":"local","local":true}

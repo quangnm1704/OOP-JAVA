@@ -1,0 +1,1 @@
+{"name":"Local: Xau_doi_xung","url":"c:\\CODEPTIT_JAVA\\Xau_doi_xung.java","tests":[{"id":1789695362095,"input":"3\nabccaa\nabbcca\nabcda","output":"YES\nNO\nYES"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\CODEPTIT_JAVA\\Xau_doi_xung.java","group":"local","local":true}
