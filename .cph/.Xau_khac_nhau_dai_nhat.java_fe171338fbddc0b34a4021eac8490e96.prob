@@ -1,0 +1,1 @@
+{"name":"Local: Xau_khac_nhau_dai_nhat","url":"c:\\CODEPTIT_JAVA\\Xau_khac_nhau_dai_nhat.java","tests":[{"id":1790269987546,"input":"2\nabcd\ndefgh\na\na","output":"5\n-1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\CODEPTIT_JAVA\\Xau_khac_nhau_dai_nhat.java","group":"local","local":true}
