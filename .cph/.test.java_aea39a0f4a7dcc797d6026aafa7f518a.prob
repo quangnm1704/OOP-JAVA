@@ -1,1 +1,1 @@
-{"name":"Local: test","url":"c:\\CODEPTIT_JAVA\\test.java","tests":[{"id":1789625148567,"input":"5","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\CODEPTIT_JAVA\\test.java","group":"local","local":true}
+{"name":"Local: test","url":"c:\\CODEPTIT_JAVA\\test.java","tests":[{"id":1789625148567,"input":"hello","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\CODEPTIT_JAVA\\test.java","group":"local","local":true}

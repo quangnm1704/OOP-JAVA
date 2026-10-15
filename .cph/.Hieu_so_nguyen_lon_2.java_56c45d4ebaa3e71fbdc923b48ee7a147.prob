@@ -1,0 +1,1 @@
+{"name":"Local: Hieu_so_nguyen_lon_2","url":"c:\\CODEPTIT_JAVA\\Hieu_so_nguyen_lon_2.java","tests":[{"id":1790874637208,"input":"000123456789012345678901234567890\n00000000000000001234567890","output":"123456789012345678900000000000"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\CODEPTIT_JAVA\\Hieu_so_nguyen_lon_2.java","group":"local","local":true}

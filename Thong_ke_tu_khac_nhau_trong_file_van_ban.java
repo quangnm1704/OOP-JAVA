@@ -4,7 +4,7 @@ import java.util.*;
 public class Thong_ke_tu_khac_nhau_trong_file_van_ban {
     public static void main(String[] args) throws IOException {
         Scanner sc = new Scanner(new File("VANBAN.in"));
-        //Scanner sc = new Scanner(System.in);
+        // Scanner sc = new Scanner(System.in);
 
         int n = Integer.parseInt(sc.nextLine().trim());
         HashMap <String, Integer> map = new HashMap<>();
