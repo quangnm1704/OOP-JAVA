@@ -2,25 +2,9 @@ import java.util.*;
 import java.io.*;
 
 public class test {
-    public static boolean tn(int n){
-        String s = n + "";
-        StringBuilder sb = new StringBuilder(s);
-
-        return sb.reverse().toString().equals(s);
-    }
-
-    public static void main(String[] args) throws Exception {
-        ObjectInputStream o1 = new ObjectInputStream(new FileInputStream("DAYSO.DAT"));
-        ArrayList <Integer> list = (ArrayList<Integer>) o1.readObject();
-        o1.close();
-
-        TreeSet <Integer> set = new TreeSet<>();
-
-
-        for(int x : list){
-            if(tn(x) && x >= 100) set.add(x);
-        }
-
-        for(int x : set) System.out.println(x);
+    public static void main(String[] args){
+        System.out.println("BANG DIEM lop D15CQKT02-B:");
+        System.out.println("B15DCKT150 Nguyen Ngoc Son INT1155 Tin hoc co so 2 8.5");
+        System.out.println("B15DCKT150 Nguyen Ngoc Son SKD1103 Ky nang tao lap Van ban 9");
     }
 }
